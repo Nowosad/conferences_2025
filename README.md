@@ -13,6 +13,7 @@
   - IALE 2025 European Landscape Ecology Congress, https://iale2025.sav.sk/, Bratislava, 2--5 September 2025
     - Call for abstracts: 28 February 2025
   - QGIS User Conference 2025
+  - GeoPython 2025
  
 ### Oceania
 
