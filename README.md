@@ -30,15 +30,3 @@
 ### Poland
 
   - IV spotkanie użytkowników QGIS, ???
-
-
-
-
-
-
-
-
-
-
-
- - 
