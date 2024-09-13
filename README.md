@@ -1,4 +1,4 @@
-# Conferences 2025
+# Geospatial Conferences 2025
 
 ## International
 
