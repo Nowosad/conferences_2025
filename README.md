@@ -16,6 +16,7 @@
   - INTERGEO, https://www.intergeo.de/, Frankfurt am Main, 07—09 October 2025
   - QGIS User Conference 2025
   - GeoPython 2025
+  - Sigspatial 2025
  
 ### Oceania
 
@@ -23,6 +24,10 @@
   - GIScience 2025, https://giscience2025.org/, Ōtautahi Christchurch, 26—29 August 2025
 
 ## Local
+
+### Austria
+
+  - AGIT 2025, https://gi-salzburg.org/en/, Salzburg, 2—3 July 2025
 
 ### Germany
 
