@@ -22,6 +22,7 @@
 
   - 2025 IEEE International Geoscience and Remote Sensing Symposium, https://2025.ieeeigarss.org/, Brisbane, 3—8 August 2025
   - GIScience 2025, https://giscience2025.org/, Ōtautahi Christchurch, 26—29 August 2025
+  - FOSS4G 2025, Tāmaki Makaurau Auckland, November 2025
 
 ## Local
 
