@@ -15,6 +15,8 @@
     - Call for tutorials: December 2024
   - IALE 2025 European Landscape Ecology Congress, https://iale2025.sav.sk/, Bratislava, 2—5 September 2025
     - Call for abstracts: 28 February 2025
+  - EUGEO 2025 congress ‘Geographies of a Changing Europe’, Austrian Academy of Sciences, Vienna, 8–11 September 2025
+    - Call for abstracts/papers closes on: 20 January 2025
   - INTERGEO, https://www.intergeo.de/, Frankfurt am Main, 07—09 October 2025
   - GeoPython 2025
   - Sigspatial 2025
