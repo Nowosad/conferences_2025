@@ -20,6 +20,9 @@
   - INTERGEO, https://www.intergeo.de/, Frankfurt am Main, 07—09 October 2025
   - GeoPython 2025
   - Sigspatial 2025
+  - SSTD 2025
+  - ACM SIGSPATIAL
+  - W2GIS
  
 ### Oceania
 
