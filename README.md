@@ -22,7 +22,6 @@
   - EUGEO 2025 congress ‘Geographies of a Changing Europe’, https://www.oeaw.ac.at/en/isr/eugeo-2025, Austrian Academy of Sciences, Vienna, 8–11 September 2025
     - Call for abstracts/papers closes on: 20 January 2025
   - INTERGEO, https://www.intergeo.de/, Frankfurt am Main, 07—09 October 2025
-  - GeoPython 2025
   - Sigspatial 2025
   - SSTD 2025
   - W2GIS
