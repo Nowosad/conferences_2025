@@ -24,7 +24,6 @@
   - GeoPython 2025
   - Sigspatial 2025
   - SSTD 2025
-  - ACM SIGSPATIAL
   - W2GIS
  
 ### Oceania
