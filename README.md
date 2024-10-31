@@ -48,3 +48,7 @@
 ### Poland
 
   - IV spotkanie użytkowników QGIS, ???
+
+## Similar lists
+
+- [List of selected events (conferences, workshops, etc.) related to forest sciences, geospatial analysis, cartography, remote sensing by Jens Wiesehahn](https://github.com/wiesehahn/conferences)
