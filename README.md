@@ -5,7 +5,6 @@
 ### Europe
 
   - GeoPython 2-25, https://2025.geopython.net/, Basel, 24—26 February 2025
-  - GISRUK 2025, https://gisruk.org/, Bristol, 22—25 April 2025
   - Geospatial World Forum 2025, https://geospatialworldforum.org/2025/index.php, Madrid, 22—25 April 
   - EGU 2025, https://www.egu25.eu/, Vienna, 27 April—2 May 2025
   - LBS 2025 (Conference on Location-Based Services), https://lbs2025.lbsconference.org/index.html, Otaniemi, 7—9 May 2025
