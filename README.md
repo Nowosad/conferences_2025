@@ -42,7 +42,6 @@
 ### Germany
 
   - FOSSGIS-Konferenz 2025, https://fossgis-konferenz.de/2025/, Muenster, 26—29 March 2025:
-    - Call for papers: early October
   - GFÖ, https://www.gfoe-conference.de/, Würzburg, 1—5 September 2025
 
 ### England
