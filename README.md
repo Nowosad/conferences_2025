@@ -46,6 +46,10 @@
     - Call for papers: early October
   - GFÖ, https://www.gfoe-conference.de/, Würzburg, 1—5 September 2025
 
+### England
+
+  - GISRUK 2025, https://gisruk.org/gisruk-2025/, Bristol, 23--25 April 2025
+
 ### Poland
 
   - IV spotkanie użytkowników QGIS, ???
