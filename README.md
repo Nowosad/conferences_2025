@@ -14,8 +14,6 @@
     - Call for workshops: 20 December 2024
     - Call for short papers (2000-3000 words)/posters (500-1000 words): 03 February 2025
   - Living Planet Symposium, https://lps25.esa.int/, Vienna, 23—27 June 2025:
-    - Call for abstracts: 14 October—1 December 2024
-    - Call for tutorials: December 2024
   - FOSS4G-Europe-2025, https://wiki.osgeo.org/wiki/FOSS4G-Europe-2025, Mostar, 14—20 July 2025
   - Spatial Statistics 2025, https://www.elsevier.com/events/conferences/all/spatial-statistics, Noordwijk, 15—18 July 2025
   - IALE 2025 European Landscape Ecology Congress, https://iale2025.sav.sk/, Bratislava, 2—5 September 2025
