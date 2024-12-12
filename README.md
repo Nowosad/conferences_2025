@@ -8,7 +8,7 @@
   - Geospatial World Forum 2025, https://geospatialworldforum.org/2025/index.php, Madrid, 22—25 April 
   - EGU 2025, https://www.egu25.eu/, Vienna, 27 April—2 May 2025
   - LBS 2025 (Conference on Location-Based Services), https://lbs2025.lbsconference.org/index.html, Otaniemi, 7—9 May 2025
-  - QGIS User Conference 2025, Norrköping, 2-3 June 2025 (contributor meeting 4—6 (or 7?) June)
+  - QGIS User Conference 2025, https://qgis.org/community/organisation/meetings/uc-2025/, Norrköping, 2-3 June 2025 (contributor meeting 4—6 June)
   - The 28th AGILE Conference, https://agile-gi.eu/, Dresden, 10—13 June 2025:
     - Call for full papers (4000-6000 words): 20 December 2024
     - Call for workshops: 20 December 2024
