@@ -2,6 +2,15 @@
 
 ## International
 
+### America
+
+  - MDM 2025 (26th IEEE International Conference on Mobile Data Management), https://mdm2025.github.io/, Irvine, 2-5 June
+  - SIGSPATIAL 2025 (33rd International Conference on Advances in Geographic Information Systems), https://sigspatial2025.sigspatial.org/, Minneapolis, 3-6 November
+
+### Asia
+
+  - SSTD 2025 (19th International Symposium on Spatial and Temporal Data), https://sstd2025.github.io/, Osaka, 25-27 August
+
 ### Europe
 
   - GeoPython 2-25, https://2025.geopython.net/, Basel, 24—26 February 2025
@@ -16,13 +25,11 @@
   - Living Planet Symposium, https://lps25.esa.int/, Vienna, 23—27 June 2025:
   - FOSS4G-Europe-2025, https://2025.europe.foss4g.org/, Mostar, 14—20 July 2025
   - Spatial Statistics 2025, https://www.elsevier.com/events/conferences/all/spatial-statistics, Noordwijk, 15—18 July 2025
-  - SSTD 2025 (19th International Symposium on Spatial and Temporal Data), https://sstd2025.github.io/, Osaka, 25--27 August
   - IALE 2025 European Landscape Ecology Congress, https://iale2025.sav.sk/, Bratislava, 2—5 September 2025
     - Call for abstracts: 28 February 2025
   - EUGEO 2025 congress ‘Geographies of a Changing Europe’, https://www.oeaw.ac.at/en/isr/eugeo-2025, Austrian Academy of Sciences, Vienna, 8–11 September 2025
     - Call for abstracts/papers closes on: 20 January 2025
   - INTERGEO, https://www.intergeo.de/, Frankfurt am Main, 07—09 October 2025
-  - Sigspatial 2025
   - W2GIS
  
 ### Oceania
