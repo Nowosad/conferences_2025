@@ -55,7 +55,7 @@
 
 ### Poland
 
-  - IV spotkanie użytkowników QGIS, ???
+  - IV spotkanie użytkowników QGIS, https://www.qgis.pl/spotkania/2025, Łódź, 25--26 June 2025
 
 ## Similar lists
 
