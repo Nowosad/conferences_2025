@@ -8,7 +8,7 @@
 
 ### Africa
 
-  - IEEE JURSE (Joint Urban Remote Sensing Event) 2025, https://2025.ieee-jurse.org, 4-7 May 2025
+  - IEEE JURSE (Joint Urban Remote Sensing Event) 2025, https://2025.ieee-jurse.org, Gammarth-Tunis, 4-7 May 2025
 
 ### Europe
 
