@@ -59,6 +59,10 @@
 
   - IV spotkanie użytkowników QGIS, https://www.qgis.pl/spotkania/2025, Łódź, 25--26 June 2025
 
+### Spain
+
+  - Jornadas de SIG libre, https://www.jornadassiglibre.org/, Girona, 17—18 September 2025
+
 ## Similar lists
 
 - [List of selected events (conferences, workshops, etc.) related to forest sciences, geospatial analysis, cartography, remote sensing by Jens Wiesehahn](https://github.com/wiesehahn/conferences)
