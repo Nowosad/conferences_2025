@@ -6,12 +6,17 @@
 
   - SSTD 2025 (19th International Symposium on Spatial and Temporal Data), https://sstd2025.github.io/, Osaka, 25-27 August
 
+### Africa
+
+  - IEEE JURSE (Joint Urban Remote Sensing Event) 2025, https://2025.ieee-jurse.org, Gammarth-Tunis, 4-7 May 2025
+
 ### Europe
 
   - GeoPython 2-25, https://2025.geopython.net/, Basel, 24—26 February 2025
   - Geospatial World Forum 2025, https://geospatialworldforum.org/2025/index.php, Madrid, 22—25 April 
-  - EGU 2025, https://www.egu25.eu/, Vienna, 27 April—2 May 2025
+  - EGU 2025, https://www.egu25.eu/, Vienna, 27 April—2 May 2025 
   - LBS 2025 (Conference on Location-Based Services), https://lbs2025.lbsconference.org/index.html, Otaniemi, 7—9 May 2025
+  - 44th EARSeL Symposium, https://symposium.earsel.org/44th-symposium-Prague, Prague, 26-29 May 2025
   - QGIS User Conference 2025, https://qgis.org/community/organisation/meetings/uc-2025/, Norrköping, 2-3 June 2025 (contributor meeting 4—6 June)
   - The 28th AGILE Conference, https://agile-gi.eu/, Dresden, 10—13 June 2025:
   - Living Planet Symposium, https://lps25.esa.int/, Vienna, 23—27 June 2025:
