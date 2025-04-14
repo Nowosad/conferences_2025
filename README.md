@@ -67,6 +67,7 @@
 
   - GISRUK 2025, https://gisruk.org/gisruk-2025/, Bristol, 23--25 April 2025
   - SDSC 2025, https://spatial-data-science-conference.com/2025/london/, London, 5 May
+  - FOSS4G:UK, https://uk.osgeo.org/foss4guk2025/index.html, Leeds
 
 ### Poland
 
