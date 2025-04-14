@@ -80,6 +80,10 @@
 
   - Jornadas de SIG libre, https://www.jornadassiglibre.org/, Girona, 17—18 September 2025
 
+### Netherlands
+
+ -  Foss4G NL, [https://talks.osgeo.org/foss4gnl-2025/](https://talks.osgeo.org/foss4gnl-2025/), Wageningen 2 & 3 July 2025
+
 ## Similar lists
 
 - [List of selected events (conferences, workshops, etc.) related to forest sciences, geospatial analysis, cartography, remote sensing by Jens Wiesehahn](https://github.com/wiesehahn/conferences)
