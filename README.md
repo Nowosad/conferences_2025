@@ -1,3 +1,4 @@
+
 # Geospatial Conferences 2025
 
 ## International
@@ -5,6 +6,8 @@
 ### Asia
 
   - SSTD 2025 (19th International Symposium on Spatial and Temporal Data), https://sstd2025.github.io/, Osaka, 25-27 August
+  - 3D GeoInfo & Smart Data Smart Cities, https://www.csis.u-tokyo.ac.jp/3d_geoinfo_sdsc_2025/overview.html, Kashiwa, 02-05 September 2025
+  - SotM 2025 (State of the Map), https://2025.stateofthemap.org/, Manila, 3-5 October
 
 ### Africa
 
@@ -13,17 +16,17 @@
 ### Europe
 
   - GeoPython 2-25, https://2025.geopython.net/, Basel, 24—26 February 2025
-  - Geospatial World Forum 2025, https://geospatialworldforum.org/2025/index.php, Madrid, 22—25 April 
+  - Geospatial World Forum 2025, https://geospatialworldforum.org/2025/index.php, Madrid, 22—25 April
   - EGU 2025, https://www.egu25.eu/, Vienna, 27 April—2 May 2025 
   - LBS 2025 (Conference on Location-Based Services), https://lbs2025.lbsconference.org/index.html, Otaniemi, 7—9 May 2025
   - 44th EARSeL Symposium, https://symposium.earsel.org/44th-symposium-Prague, Prague, 26-29 May 2025
   - QGIS User Conference 2025, https://qgis.org/community/organisation/meetings/uc-2025/, Norrköping, 2-3 June 2025 (contributor meeting 4—6 June)
+  - Geomorphometry 2025, https://www.geomorphometry2025.org/, Perugia, June 9-13, 2025
   - The 28th AGILE Conference, https://agile-gi.eu/, Dresden, 10—13 June 2025:
   - Living Planet Symposium, https://lps25.esa.int/, Vienna, 23—27 June 2025:
   - FOSS4G-Europe-2025, https://2025.europe.foss4g.org/, Mostar, 14—20 July 2025
   - Spatial Statistics 2025, https://www.elsevier.com/events/conferences/all/spatial-statistics, Noordwijk, 15—18 July 2025
   - IALE 2025 European Landscape Ecology Congress, https://iale2025.sav.sk/, Bratislava, 2—5 September 2025
-  - Web and Wireless Geographical Information Systems (W2GIS), https://sites.google.com/view/w2gis-2025, Mexico City, 8-9 September 2025
   - EUGEO 2025 congress ‘Geographies of a Changing Europe’, https://www.oeaw.ac.at/en/isr/eugeo-2025, Austrian Academy of Sciences, Vienna, 8–11 September 2025
   - Workshop on Machine Learning for Earth Observation, In Conjunction with the ECML/PKDD 2025, https://sites.google.com/view/maclean25, Porto, 15-19 September 2025
   - Big Data from Space 2025, https://www.bigdatafromspace2025.org/, Riga, 29 September–3 October 2025
@@ -31,8 +34,12 @@
 
 ### North America
 
-  - MDM 2025 (26th IEEE International Conference on Mobile Data Management), https://mdm2025.github.io/, Irvine, 2-5 June
-  - SIGSPATIAL 2025 (33rd International Conference on Advances in Geographic Information Systems), https://sigspatial2025.sigspatial.org/, Minneapolis, 3-6 November
+  - CNG (Cloud-Native Geospatial) Conference 2025, https://conference.cloudnativegeo.org/CNGConference2025, Snowbird, 30 April—2 May 2025
+  - MDM 2025 (26th IEEE International Conference on Mobile Data Management), https://mdm2025.github.io/, Irvine, 2-5 June 2025
+  - SotMUS 2025 (15th State of the Map US), https://openstreetmap.us/events/state-of-the-map-us/2025/, Boston, 19–21 June 2025
+  - Web and Wireless Geographical Information Systems (W2GIS), https://sites.google.com/view/w2gis-2025, Mexico City, 8-9 September 2025
+  - FOSS4G NA 2025, https://www.foss4gna.org, Reston, 3-5 November 2025
+  - SIGSPATIAL 2025 (33rd International Conference on Advances in Geographic Information Systems), https://sigspatial2025.sigspatial.org/, Minneapolis, 3-6 November 2025
  
 ### Oceania
 
@@ -41,7 +48,8 @@
   - 2025 IEEE International Geoscience and Remote Sensing Symposium, https://2025.ieeeigarss.org/, Brisbane, 3—8 August 2025
   - GIScience 2025, https://giscience2025.org/, Ōtautahi Christchurch, 26—29 August 2025
   - FOSS4G 2025, https://2025.foss4g.org/, Tāmaki Makaurau Auckland, 17--23 November 2025
-  - eResearch Australasia Conference 2025 (AERO), https://conference.eresearch.edu.au/, Brisbane, 20-24 October
+  - 2025 Pacific Islands GIS & Remote Sensing Users Conference, https://pgrsc.org/pacific-gis-rs-users-conference/, Suva, Fiji, November 24-28, 2025
+
 
 ## Local
 
@@ -62,6 +70,11 @@
 
   - IV spotkanie użytkowników QGIS, https://www.qgis.pl/spotkania/2025, Łódź, 25--26 June 2025
 
+### Spain
+
+  - Jornadas de SIG libre, https://www.jornadassiglibre.org/, Girona, 17—18 September 2025
+
 ## Similar lists
 
 - [List of selected events (conferences, workshops, etc.) related to forest sciences, geospatial analysis, cartography, remote sensing by Jens Wiesehahn](https://github.com/wiesehahn/conferences)
+- [OsmCal](https://osmcal.org/), a list of events and meetups for local and international OpenStreetMap contributors/users
