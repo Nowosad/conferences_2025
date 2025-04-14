@@ -72,6 +72,10 @@
   - SDSC 2025, https://spatial-data-science-conference.com/2025/london/, London, 5 May
   - FOSS4G:UK, https://uk.osgeo.org/foss4guk2025/index.html, Leeds
 
+### Netherlands
+
+ -  Foss4G NL, https://talks.osgeo.org/foss4gnl-2025/, Wageningen, 2--3 July 2025
+
 ### Poland
 
   - IV spotkanie użytkowników QGIS, https://www.qgis.pl/spotkania/2025, Łódź, 25--26 June 2025
