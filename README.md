@@ -15,7 +15,7 @@
 ### Europe
 
   - GeoPython 2-25, https://2025.geopython.net/, Basel, 24—26 February 2025
-  - Geospatial World Forum 2025, https://geospatialworldforum.org/2025/index.php, Madrid, 22—25 April 
+  - Geospatial World Forum 2025, https://geospatialworldforum.org/2025/index.php, Madrid, 22—25 April
   - EGU 2025, https://www.egu25.eu/, Vienna, 27 April—2 May 2025 
   - LBS 2025 (Conference on Location-Based Services), https://lbs2025.lbsconference.org/index.html, Otaniemi, 7—9 May 2025
   - 44th EARSeL Symposium, https://symposium.earsel.org/44th-symposium-Prague, Prague, 26-29 May 2025
@@ -33,9 +33,11 @@
 
 ### North America
 
-  - MDM 2025 (26th IEEE International Conference on Mobile Data Management), https://mdm2025.github.io/, Irvine, 2-5 June
-  - SotMUS 2025 (15th State of the Map US), https://openstreetmap.us/events/state-of-the-map-us/2025/, Boston, June 19–21
-  - SIGSPATIAL 2025 (33rd International Conference on Advances in Geographic Information Systems), https://sigspatial2025.sigspatial.org/, Minneapolis, 3-6 November
+  - CNG (Cloud-Native Geospatial) Conference 2025, https://conference.cloudnativegeo.org/CNGConference2025, Snowbird, 30 April—2 May 2025
+  - MDM 2025 (26th IEEE International Conference on Mobile Data Management), https://mdm2025.github.io/, Irvine, 2-5 June 2025
+  - SotMUS 2025 (15th State of the Map US), https://openstreetmap.us/events/state-of-the-map-us/2025/, Boston, 19–21 June 2025
+  - FOSS4G NA 2025, https://www.foss4gna.org, Reston, 3-5 November 2025
+  - SIGSPATIAL 2025 (33rd International Conference on Advances in Geographic Information Systems), https://sigspatial2025.sigspatial.org/, Minneapolis, 3-6 November 2025
  
 ### Oceania
 
