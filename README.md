@@ -40,6 +40,7 @@
   - Web and Wireless Geographical Information Systems (W2GIS), https://sites.google.com/view/w2gis-2025, Mexico City, 8-9 September 2025
   - FOSS4G NA 2025, https://www.foss4gna.org, Reston, 3-5 November 2025
   - SIGSPATIAL 2025 (33rd International Conference on Advances in Geographic Information Systems), https://sigspatial2025.sigspatial.org/, Minneapolis, 3-6 November 2025
+  - SDSC 2025, https://spatial-data-science-conference.com/2025/newyork/, New York, 14-15 October
  
 ### Oceania
 
@@ -62,6 +63,7 @@
 ### England
 
   - GISRUK 2025, https://gisruk.org/gisruk-2025/, Bristol, 23--25 April 2025
+  - SDSC 2025, https://spatial-data-science-conference.com/2025/london/, London, 5 May
 
 ### Poland
 
