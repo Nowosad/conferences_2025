@@ -20,6 +20,7 @@
   - LBS 2025 (Conference on Location-Based Services), https://lbs2025.lbsconference.org/index.html, Otaniemi, 7—9 May 2025
   - 44th EARSeL Symposium, https://symposium.earsel.org/44th-symposium-Prague, Prague, 26-29 May 2025
   - QGIS User Conference 2025, https://qgis.org/community/organisation/meetings/uc-2025/, Norrköping, 2-3 June 2025 (contributor meeting 4—6 June)
+  - Geomorphometry 2025, https://www.geomorphometry2025.org/, Perugia, June 9-13, 2025
   - The 28th AGILE Conference, https://agile-gi.eu/, Dresden, 10—13 June 2025:
   - Living Planet Symposium, https://lps25.esa.int/, Vienna, 23—27 June 2025:
   - FOSS4G-Europe-2025, https://2025.europe.foss4g.org/, Mostar, 14—20 July 2025
