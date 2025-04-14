@@ -1,3 +1,4 @@
+
 # Geospatial Conferences 2025
 
 ## International
@@ -5,6 +6,7 @@
 ### Asia
 
   - SSTD 2025 (19th International Symposium on Spatial and Temporal Data), https://sstd2025.github.io/, Osaka, 25-27 August
+  - SotM 2025 (State of the Map), https://2025.stateofthemap.org/, Manila, 3-5 October
 
 ### Africa
 
@@ -31,8 +33,9 @@
 
 ### North America
 
-  - MDM 2025 (26th IEEE International Conference on Mobile Data Management), https://mdm2025.github.io/, Irvine, 2-5 June 2025
   - CNG (Cloud-Native Geospatial) Conference 2025, https://conference.cloudnativegeo.org/CNGConference2025, Snowbird, 30 April—2 May 2025
+  - MDM 2025 (26th IEEE International Conference on Mobile Data Management), https://mdm2025.github.io/, Irvine, 2-5 June 2025
+  - SotMUS 2025 (15th State of the Map US), https://openstreetmap.us/events/state-of-the-map-us/2025/, Boston, 19–21 June 2025
   - FOSS4G NA 2025, https://www.foss4gna.org, Reston, 3-5 November 2025
   - SIGSPATIAL 2025 (33rd International Conference on Advances in Geographic Information Systems), https://sigspatial2025.sigspatial.org/, Minneapolis, 3-6 November 2025
  
@@ -64,3 +67,4 @@
 ## Similar lists
 
 - [List of selected events (conferences, workshops, etc.) related to forest sciences, geospatial analysis, cartography, remote sensing by Jens Wiesehahn](https://github.com/wiesehahn/conferences)
+- [OsmCal](https://osmcal.org/), a list of events and meetups for local and international OpenStreetMap contributors/users
