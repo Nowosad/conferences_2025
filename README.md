@@ -6,6 +6,7 @@
 ### Asia
 
   - SSTD 2025 (19th International Symposium on Spatial and Temporal Data), https://sstd2025.github.io/, Osaka, 25-27 August
+  - 3D GeoInfo & Smart Data Smart Cities, https://www.csis.u-tokyo.ac.jp/3d_geoinfo_sdsc_2025/overview.html, Kashiwa, 02-05 September 2025
   - SotM 2025 (State of the Map), https://2025.stateofthemap.org/, Manila, 3-5 October
 
 ### Africa
