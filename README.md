@@ -39,6 +39,7 @@
 
   - CNG (Cloud-Native Geospatial) Conference 2025, https://conference.cloudnativegeo.org/CNGConference2025, Snowbird, 30 April—2 May 2025
   - MDM 2025 (26th IEEE International Conference on Mobile Data Management), https://mdm2025.github.io/, Irvine, 2-5 June 2025
+  - EOSUMMIT, https://www.eosummit.com/, New York, 10-11 June 2025
   - SotMUS 2025 (15th State of the Map US), https://openstreetmap.us/events/state-of-the-map-us/2025/, Boston, 19–21 June 2025
   - Web and Wireless Geographical Information Systems (W2GIS), https://sites.google.com/view/w2gis-2025, Mexico City, 8-9 September 2025
   - FOSS4G NA 2025, https://www.foss4gna.org, Reston, 3-5 November 2025
