@@ -17,7 +17,8 @@
 
   - GeoPython 2-25, https://2025.geopython.net/, Basel, 24—26 February 2025
   - Geospatial World Forum 2025, https://geospatialworldforum.org/2025/index.php, Madrid, 22—25 April
-  - EGU 2025, https://www.egu25.eu/, Vienna, 27 April—2 May 2025 
+  - EGU 2025, https://www.egu25.eu/, Vienna, 27 April—2 May 2025
+  - GEO Global Forum 2025, https://earthobservations.org/events/geo-global-forum-2025, Rome, 5-9 May 2025
   - LBS 2025 (Conference on Location-Based Services), https://lbs2025.lbsconference.org/index.html, Otaniemi, 7—9 May 2025
   - 44th EARSeL Symposium, https://symposium.earsel.org/44th-symposium-Prague, Prague, 26-29 May 2025
   - QGIS User Conference 2025, https://qgis.org/community/organisation/meetings/uc-2025/, Norrköping, 2-3 June 2025 (contributor meeting 4—6 June)
