@@ -29,6 +29,7 @@
   - Spatial Statistics 2025, https://www.elsevier.com/events/conferences/all/spatial-statistics, Noordwijk, 15—18 July 2025
   - IALE 2025 European Landscape Ecology Congress, https://iale2025.sav.sk/, Bratislava, 2—5 September 2025
   - EUGEO 2025 congress ‘Geographies of a Changing Europe’, https://www.oeaw.ac.at/en/isr/eugeo-2025, Austrian Academy of Sciences, Vienna, 8–11 September 2025
+  - 24th European Colloquium on Quantitative and Theoretical Geography, https://ectqg.org/, Tallinn, Estonia, 10-14 September 2025
   - Workshop on Machine Learning for Earth Observation, In Conjunction with the ECML/PKDD 2025, https://sites.google.com/view/maclean25, Porto, 15-19 September 2025
   - Big Data from Space 2025, https://www.bigdatafromspace2025.org/, Riga, 29 September–3 October 2025
   - INTERGEO, https://www.intergeo.de/, Frankfurt am Main, 07—09 October 2025
