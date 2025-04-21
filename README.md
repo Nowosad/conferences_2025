@@ -87,8 +87,8 @@
 
 ### Netherlands
 
- -  FOSS4GNL, https://foss4g.nl/ CfP: https://talks.osgeo.org/foss4gnl-2025/, Wageningen, 2-3 July 2025
  -  Geomob Netherlands, https://thegeomob.com/post/may-22nd-2025-geomobnl-details , Utrecht, 22 May, 2025
+ -  FOSS4GNL, https://foss4g.nl/ CfP: https://talks.osgeo.org/foss4gnl-2025/, Wageningen, 2-3 July 2025
 
 ### Poland
 
