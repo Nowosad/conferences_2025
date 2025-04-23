@@ -22,12 +22,14 @@
   - LBS 2025 (Conference on Location-Based Services), https://lbs2025.lbsconference.org/index.html, Otaniemi, 7—9 May 2025
   - 44th EARSeL Symposium, https://symposium.earsel.org/44th-symposium-Prague, Prague, 26-29 May 2025
   - QGIS User Conference 2025, https://qgis.org/community/organisation/meetings/uc-2025/, Norrköping, 2-3 June 2025 (contributor meeting 4—6 June)
-  - Geomorphometry 2025, https://www.geomorphometry2025.org/, Perugia, June 9-13, 2025
-  - The 28th AGILE Conference, https://agile-gi.eu/, Dresden, 10—13 June 2025:
-  - Living Planet Symposium, https://lps25.esa.int/, Vienna, 23—27 June 2025:
+  - NexTCity Summer School, https://nextcity-project.eu/index.php/news-events/ss-tw-1-uji, Benicàssim, 3--6 June 2025
+  - Geomorphometry 2025, https://www.geomorphometry2025.org/, Perugia, 9-13 June 2025
+  - The 28th AGILE Conference, https://agile-gi.eu/, Dresden, 10—13 June 2025
+  - Living Planet Symposium, https://lps25.esa.int/, Vienna, 23—27 June 2025
   - CUPUM 2025 (The 19th International Conference on Computational Urban Planning and Urban Management), https://www.ucl.ac.uk/bartlett/casa/about/cupum-2025, London, 23—27 June 2025
   - FOSS4G-Europe-2025, https://2025.europe.foss4g.org/, Mostar, 14—20 July 2025
   - Spatial Statistics 2025, https://www.elsevier.com/events/conferences/all/spatial-statistics, Noordwijk, 15—18 July 2025
+  - ELLIS Summer School: AI for Earth and Climate Sciences, https://www.ellis-jena.eu/summer-school-2025/, Jena, 1–5 September 2025
   - IALE 2025 European Landscape Ecology Congress, https://iale2025.sav.sk/, Bratislava, 2—5 September 2025
   - EUGEO 2025 congress ‘Geographies of a Changing Europe’, https://www.oeaw.ac.at/en/isr/eugeo-2025, Austrian Academy of Sciences, Vienna, 8–11 September 2025
   - 24th European Colloquium on Quantitative and Theoretical Geography, https://ectqg.org/, Tallinn, Estonia, 10-14 September 2025
