@@ -66,9 +66,9 @@
 
 ### South America
 
-  - METMA-LATAM II (the 2nd Latin American Conference on Spatio-Temporal Modelling), https://www.uninorte.edu.co/web/investigacion-desarrollo-e-innovacion/metma-latam-ii, Barranquilla, 25-27 June 2025.
-  - SBSR 2025 (Brazilian Remote Sensing Symposium), https://2025.sbsr.com.br/sbsr-2025/, Salvador-BA, 13-16 April 2025.
-  - GEOINFO 2025, (Brazilian Symposium on Geoinformatics), https://geoinfobr.github.io/, São José dos Campos-SP, 19-21- May 2025.
+  - SBSR 2025 (Brazilian Remote Sensing Symposium), https://2025.sbsr.com.br/sbsr-2025/, Salvador-BA, 13-16 April 2025
+  - GEOINFO 2025, (Brazilian Symposium on Geoinformatics), https://geoinfobr.github.io/, São José dos Campos-SP, 19-21 May 2025
+  - METMA-LATAM II (the 2nd Latin American Conference on Spatio-Temporal Modelling), https://www.uninorte.edu.co/web/investigacion-desarrollo-e-innovacion/metma-latam-ii, Barranquilla, 25-27 June 2025
  
 ## Local
 
