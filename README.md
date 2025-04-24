@@ -88,6 +88,7 @@
   - GISRUK 2025, https://gisruk.org/gisruk-2025/, Bristol, 23--25 April 2025
   - SDSC 2025, https://spatial-data-science-conference.com/2025/london/, London, 5 May
   - FOSS4G:UK, https://uk.osgeo.org/foss4guk2025/index.html, Leeds
+  - ML4EO 2025 (Machine Learning for Earth Observation), https://ml4eo.org/, Exeter, 18 - 20 June
 
 ### Netherlands
 
