@@ -29,7 +29,7 @@
   - CUPUM 2025 (The 19th International Conference on Computational Urban Planning and Urban Management), https://www.ucl.ac.uk/bartlett/casa/about/cupum-2025, London, 23—27 June 2025
   - FOSS4G-Europe-2025, https://2025.europe.foss4g.org/, Mostar, 14—20 July 2025
   - Spatial Statistics 2025, https://www.elsevier.com/events/conferences/all/spatial-statistics, Noordwijk, 15—18 July 2025
-  - SUMMER SCHOOL - SATELLITE-BASED HYDROLOGICAL DATA ASSIMILATION, http://en.aau.dk/summer-school-satellite-based-hydrological-data-assimilation-e134157, Aalborg, 26-28 August 2025
+  - Summer School - Satellite-based Hydrological Data Assimilation, http://en.aau.dk/summer-school-satellite-based-hydrological-data-assimilation-e134157, Aalborg, 26-28 August 2025
   - ELLIS Summer School: AI for Earth and Climate Sciences, https://www.ellis-jena.eu/summer-school-2025/, Jena, 1–5 September 2025
   - IALE 2025 European Landscape Ecology Congress, https://iale2025.sav.sk/, Bratislava, 2—5 September 2025
   - EUGEO 2025 congress ‘Geographies of a Changing Europe’, https://www.oeaw.ac.at/en/isr/eugeo-2025, Austrian Academy of Sciences, Vienna, 8–11 September 2025
