@@ -81,13 +81,13 @@
 
 ### Germany
 
-  - FOSSGIS-Konferenz 2025, https://fossgis-konferenz.de/2025/, Muenster, 26—29 March 2025:
+  - FOSSGIS-Konferenz 2025, https://fossgis-konferenz.de/2025/, Muenster, 26—29 March 2025
   - GFÖ, https://www.gfoe-conference.de/, Würzburg, 1—5 September 2025
 
 ### England
 
   - GISRUK 2025, https://gisruk.org/gisruk-2025/, Bristol, 23--25 April 2025
-  - SDSC 2025, https://spatial-data-science-conference.com/2025/london/, London, 5 May\
+  - SDSC 2025, https://spatial-data-science-conference.com/2025/london/, London, 5 May
   - ML4EO 2025 (Machine Learning for Earth Observation), https://ml4eo.org/, Exeter, 18--20 June
   - FOSS4G:UK, https://uk.osgeo.org/foss4guk2025/index.html, Leeds, 1--2 October
 
