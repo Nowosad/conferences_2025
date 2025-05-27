@@ -12,6 +12,9 @@
 ### Africa
 
   - IEEE JURSE (Joint Urban Remote Sensing Event) 2025, https://2025.ieee-jurse.org, Gammarth-Tunis, 4-7 May 2025
+  - 9th AfriGEO Symposium 2025, https://ricparticipants.rcmrd.org/, Dakar, Senegal, 7-9 October 2025
+  - State of the Map Africa 2025, https://2025.stateofthemap.africa/, Dar es Salam, Tanzania, 28-30 November 2025
+  - ISPRS-ISDE 2025(The Joint ISPRS conference on Geo-Digitalization for Sustainable Development Goals and 3rd Youth Innovation Forum of Digital Earth), https://sot.kcau.ac.ke/ISPRS-2025-conference/, Nairobi, Kenya, 2-4 December 2025
 
 ### Europe
 
