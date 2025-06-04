@@ -41,6 +41,7 @@
   - Workshop on Machine Learning for Earth Observation, In Conjunction with the ECML/PKDD 2025, https://sites.google.com/view/maclean25, Porto, 15-19 September 2025
   - Big Data from Space 2025, https://www.bigdatafromspace2025.org/, Riga, 29 September–3 October 2025
   - INTERGEO, https://www.intergeo.de/, Frankfurt am Main, 07—09 October 2025
+  - GeoMundus "A Conference on Geospatial Technologies for Smart Cities", https://geomundus.org/, Lisbon, 17-18 October 2025
 
 ### North America
 
