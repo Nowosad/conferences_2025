@@ -110,5 +110,6 @@
 
 ## Similar lists
 
+- [2026 edition of this list](https://github.com/Nowosad/conferences_2026)
 - [List of selected events (conferences, workshops, etc.) related to forest sciences, geospatial analysis, cartography, remote sensing by Jens Wiesehahn](https://github.com/wiesehahn/conferences)
 - [OsmCal](https://osmcal.org/), a list of events and meetups for local and international OpenStreetMap contributors/users
