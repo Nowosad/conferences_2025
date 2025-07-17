@@ -34,10 +34,12 @@
   - Spatial Statistics 2025, https://www.elsevier.com/events/conferences/all/spatial-statistics, Noordwijk, 15—18 July 2025
   - Summer School - Satellite-based Hydrological Data Assimilation, http://en.aau.dk/summer-school-satellite-based-hydrological-data-assimilation-e134157, Aalborg, 26-28 August 2025
   - ELLIS Summer School: AI for Earth and Climate Sciences, https://www.ellis-jena.eu/summer-school-2025/, Jena, 1–5 September 2025
+  - OpenGeoHub Summer School: Data Science for Earth Observation: Hands-on Training in Python, R and Julia, https://opengeohub.org/summer-school/summer-school-2025/, Wageningen WICC, 1-6 September 2025,
   - IALE 2025 European Landscape Ecology Congress, https://iale2025.sav.sk/, Bratislava, 2—5 September 2025
   - EUGEO 2025 congress ‘Geographies of a Changing Europe’, https://www.oeaw.ac.at/en/isr/eugeo-2025, Austrian Academy of Sciences, Vienna, 8–11 September 2025
   - 24th European Colloquium on Quantitative and Theoretical Geography, https://ectqg.org/, Tallinn, Estonia, 10-14 September 2025
   - AI4EO Symposium 2025, https://ai4eo2025.irisa.fr/, Rennes, 11-12 September 2025
+  - Open-Earth-Monitor Global Workshop 2025, https://earthmonitor.org/global-workshop-2025/, Perugia, Italy, 17-19 September 2025
   - Workshop on Machine Learning for Earth Observation, In Conjunction with the ECML/PKDD 2025, https://sites.google.com/view/maclean25, Porto, 15-19 September 2025
   - Big Data from Space 2025, https://www.bigdatafromspace2025.org/, Riga, 29 September–3 October 2025
   - INTERGEO, https://www.intergeo.de/, Frankfurt am Main, 07—09 October 2025
@@ -113,3 +115,5 @@
 - [2026 edition of this list](https://github.com/Nowosad/conferences_2026)
 - [List of selected events (conferences, workshops, etc.) related to forest sciences, geospatial analysis, cartography, remote sensing by Jens Wiesehahn](https://github.com/wiesehahn/conferences)
 - [OsmCal](https://osmcal.org/), a list of events and meetups for local and international OpenStreetMap contributors/users
+- [GeoAwesome](https://geoawesome.com/events/), a list of events in the field of geospatial technologies,
+- [OSGeo events](https://www.osgeo.org/events/), various events organized by open source geospatial developments communities, 
