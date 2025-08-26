@@ -3,6 +3,8 @@
 
 ## International
 
+   - The Sixth Spatial Data Science Symposium, http://sdss2025.spatial-data-science.net/, distributed and online, 04-05 December 2025
+
 ### Asia
 
   - SSTD 2025 (19th International Symposium on Spatial and Temporal Data), https://sstd2025.github.io/, Osaka, 25-27 August
